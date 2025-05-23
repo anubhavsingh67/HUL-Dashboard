@@ -33,6 +33,6 @@ Sample_HUL_Data.xlsx – Anonymized dataset used in the project.
 Folder with dashboard screenshots.
 
 📸 Screenshots:
-1. HUL Monthly Overview Page: (https://github.com/anubhavsingh67/HUL-Dashboard/blob/main/HUL_Monthely_Overview.jpg)
+1. HUL Monthly Overview Page: ![image](https://github.com/user-attachments/assets/b4fdef5a-6626-4057-aa49-54c2ca71acac)
+2. State-wise TAT Analysis: ![image](https://github.com/user-attachments/assets/ff95e50b-83f3-4c55-ac70-f03ce42f3b88)
 
-2. State-wise TAT Analysis: (https://github.com/anubhavsingh67/HUL-Dashboard/blob/main/HUL_State_TAT_Analysis.jpg)
